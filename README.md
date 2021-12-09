@@ -1,7 +1,7 @@
 <!---
 mePratyush/mePratyush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m Pratyush 💤Developer 🐉learning.py ✨webdev.js 💜design.css
+- 👋 Hi, I’m Pratyush
 - 🌱 Currently learning ...
 - 💞️ Looking to collaborate on ...
 - 📫 How to reach me ...
@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Pratyush Behera</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<h4 align="center">💤Developer 🐉coder.py ✨webdev.js 💜design.css</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
